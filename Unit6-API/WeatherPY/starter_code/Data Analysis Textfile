@@ -1,7 +1,7 @@
 Data Analysis
 
 1st Trend
-City Latitude vs Max Temperature graph visually shows us that countries with higher latitude had colder weather on the day of November 3rd (the day data was grabbed) and cities within the 0 latitude to negative latitude which is further south of the equator had more positive temperature in comparison. This data is a visual confirmation that southern and northern part of the equator is where you would actually start seeing more dramatic changes to the max temperature recorded.
+City Latitude vs Max Temperature graph visually shows us that countries with higher latitude had colder weather on the day of November 3rd (the day data was grabbed) and cities within the 0 latitude to negative latitude which is further south of the equator had more positive temperature in comparison. This data is a visual confirmation that after latitude is passed at 0 on southern and northern part of the equator is where you would actually start seeing more dramatic changes to the max temperature recorded.
 
 2nd Trend
 City latitude vs Humidity shows us that humidity level is fairly spread out amongst the cities with different latitude, however surprisingly cities with higher latitude is experiencing higher percentage of humidity as the scatter plot suggests higher saturation within the cities within 60 latitude points. 
